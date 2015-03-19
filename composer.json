@@ -1,0 +1,24 @@
+{
+    "name": "jurakit/yii2-test",
+    "type": "library",
+    "description": "Yii2-test",
+    "keywords": ["yii2"],
+    "homepage": "https://github.com/jurakit/yii2-test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mai Ba Duy",
+            "email": "maibaduy@gmail.com",
+            "homepage": "http://jurakit.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
